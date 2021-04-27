@@ -1,0 +1,18 @@
+Package: helprlpx
+Type: Package
+Title: Analysis of Ingredient Types and their Abundance in Medications
+Version: 0.1.0
+Author: Lily Portal 
+Maintainer: Lily Portal <lep1@usf.edu>
+Description: The objective of this package is to show functions showing 
+    how to calculate relative abundance of an object and plot it according to the 
+    abundance per category. It contains a data frame I created of different 
+    ingredients and another set of different medication types and how many of 
+    each ingrediant is in each medication. The functions show how to find 
+    the abundance while plotting a visual displaying that. The purpose is to 
+    show how data collected can be used through functions to inform on relative
+    abundance.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
